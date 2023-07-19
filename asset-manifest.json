@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chuck_Norries/static/css/main.954fdec4.css",
+    "main.js": "/Chuck_Norries/static/js/main.bdad13c9.js",
+    "index.html": "/Chuck_Norries/index.html",
+    "main.954fdec4.css.map": "/Chuck_Norries/static/css/main.954fdec4.css.map",
+    "main.bdad13c9.js.map": "/Chuck_Norries/static/js/main.bdad13c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954fdec4.css",
+    "static/js/main.bdad13c9.js"
+  ]
+}

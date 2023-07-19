@@ -2,17 +2,32 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+
 }
 body{
     width: 100vw;
+    min-height: 100vh;
     overflow-x: hidden;
+    background:linear-gradient(to right, #407FE2, #394661)
 
 }
 
 .Main-container{
-    min-height: 100vh;
+    
 }
 .Main-container > h1{
     position: relative;
     top: 15px;
+}
+
+/* Model for mobile Page */
+@media only screen and (max-width: 600px) {
+    .mobile-para{
+        width: 17rem;
+
+    }
+    .mobile-para > p{
+        width: 15rem;
+    }
 }
